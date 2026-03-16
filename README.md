@@ -1,11 +1,13 @@
-Nombre del grupo: Las Colas Vacías
+## Las Colas Vacías : Un grupo de Programación II
 
-Integrantes:
+## Integrantes
 
-Christopher Hess 1186096
-Pablo Kim 1162102
-Lisandro Forgione 1186420
-Nicolás Miozi
-Matías Parodi
-Martín Ferreyra
+| Nombre            | Legajo   |
+|-------------------|----------|
+| Christopher Hess  | 1186096  |
+| Pablo Kim         | 1162102  |
+| Lisandro Forgione | 1186420  |
+| Nicolás Miozi     | —        |
+| Matías Parodi     | —        |
+| Martín Ferreira   | —        |
 
