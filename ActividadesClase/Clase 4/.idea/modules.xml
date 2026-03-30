@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Clase 4.iml" filepath="$PROJECT_DIR$/.idea/Clase 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cola/Cola.iml" filepath="$PROJECT_DIR$/Cola/Cola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColaPrioridad/ColaPrioridad.iml" filepath="$PROJECT_DIR$/ColaPrioridad/ColaPrioridad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diccionario/Diccionario.iml" filepath="$PROJECT_DIR$/Diccionario/Diccionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiccionarioMultiple/DiccionarioMultiple.iml" filepath="$PROJECT_DIR$/DiccionarioMultiple/DiccionarioMultiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilas/Pilas.iml" filepath="$PROJECT_DIR$/Pilas/Pilas.iml" />
+    </modules>
+  </component>
+</project>
